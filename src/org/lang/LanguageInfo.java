@@ -6,7 +6,7 @@ public class LanguageInfo {
 	}
 	public void englishLanguage() {
 		System.out.println("BBB");
-		System.out.println("BBB");
+		System.out.println("AAA");
 	}
 	public void hindiLanguage() {
 		System.out.println("CCC");
